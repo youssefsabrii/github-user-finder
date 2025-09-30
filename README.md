@@ -1,4 +1,4 @@
-GitHub User Finder
+## GitHub User Finder
 
  A simple and interactive web app to search for GitHub users and display their profiles and repositories in real-time.
 
@@ -24,9 +24,6 @@ This project demonstrates modern **JavaScript, HTML, and CSS** techniques. Key f
 
 - **Load More Pagination**  
   Displays repositories in batches of 6, with a "Load More" button to fetch more.
-
-- **Date Formatting**  
-  Formats GitHub timestamps to a readable `DD MMM YYYY` format.
 
 - **Error Handling**  
   Shows informative messages for invalid usernames or API rate limits.
