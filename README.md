@@ -1,9 +1,8 @@
-# <i class="fab fa-github"></i> GitHub User Finder
+GitHub User Finder
 
-[Live Demo](https://github.com/yourusername/github-user-finder-live)  
+ A simple and interactive web app to search for GitHub users and display their profiles and repositories in real-time.
 
-A simple and interactive web app to search for GitHub users and display their profiles and repositories in real-time.
-
+[Live Demo](https://github.com/yourusername/github-user-finder-live) 
 ---
 
 ## Features
@@ -37,16 +36,6 @@ This project demonstrates modern **JavaScript, HTML, and CSS** techniques. Key f
 - Responsive grid layout for repositories and additional info
 - Hover effects for buttons and repository cards
 - Truncated repository descriptions for cleaner layout
-
----
-
-## How to Use
-
-1. Open the live demo or clone the repository.
-2. Enter any GitHub username in the search bar.
-3. View the user profile, stats, and latest repositories.
-4. Click "Load More" to see additional repositories if available.
-5. Toggle between **Light** and **Dark** mode using the theme button.
 
 ---
 
