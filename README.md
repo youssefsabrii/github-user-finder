@@ -1,8 +1,9 @@
-## GitHub User Finder
+# GitHub User Finder
 
- A simple and interactive web app to search for GitHub users and display their profiles and repositories in real-time.
+A simple and interactive web app to search for GitHub users and display their profiles and repositories in real-time.
 
-[Live Demo]([https://github.com/youssefsabrii/github-user-finder-live](https://youssefsabrii.github.io/github-user-finder/)) 
+[Live Demo](https://youssefsabrii.github.io/github-user-finder/)
+
 ---
 
 ## Features
